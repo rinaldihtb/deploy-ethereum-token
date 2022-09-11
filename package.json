@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "serve": "^14.0.1"
+  },
+  "scripts": {
+    "serve": "node ./node_modules/serve/build/main.js"
+  }
+}
